@@ -46,7 +46,6 @@ class InnerThreadV4 extends Thread {
     public int totalMemory() {
         return MAX_MEMORY;
     }
-
     public int freeMemory() {
         return MAX_MEMORY - usedMemory;
     }
