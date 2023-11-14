@@ -27,3 +27,4 @@ public class IOExample1 {
         System.out.println("Output source : " + Arrays.toString(outSrc));
     }
 }
+
