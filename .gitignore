@@ -4,3 +4,17 @@
 /.gradle/
 /.idea/
 /build/
+/.idea/
+/.idea/sonarlint/
+/.idea/modules/
+/.idea/sonarlint/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/java-study.iml
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
